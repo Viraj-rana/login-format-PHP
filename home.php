@@ -6,7 +6,7 @@ if(!isset($_SESSION['username'])){
 
 	header('location:login.php');
 }
-
+	//formal discussion on the numn
  ?>
  <!doctype html>
 <html lang="en">
