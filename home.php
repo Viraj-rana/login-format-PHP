@@ -1,3 +1,4 @@
+<!--main home page-->
 <?php 
 
 session_start();
