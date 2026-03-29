@@ -1,6 +1,6 @@
 <!--main home page-->
 <?php 
-
+//formal degrade of the numbers in application 
 session_start();
 
 if(!isset($_SESSION['username'])){
